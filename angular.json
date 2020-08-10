@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "RealState"
+    }
+  },
+  "defaultProject": "RealState",
+  "cli": {
+    "analytics": "1ca4c860-9817-4234-a8fa-a93ad79e8a0a"
+  }
 }
