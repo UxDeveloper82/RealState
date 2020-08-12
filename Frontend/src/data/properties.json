@@ -1,6 +1,7 @@
 [
   {
     "Id": 1,
+    "SellRent": 1,
     "Name": "Birla House",
     "Type": "Condo",
     "Price": 220000,
@@ -13,6 +14,7 @@
   },
   {
     "Id": 2,
+    "SellRent": 2,
     "Name": "Erose Villa",
     "Type": "House",
     "Price": 410500,
@@ -25,6 +27,7 @@
   },
   {
     "Id": 3,
+    "SellRent": 1,
     "Name": "Mark Hill",
     "Type": "Duplex",
     "Price": 395000,
@@ -37,6 +40,7 @@
   },
   {
     "Id": 4,
+    "SellRent": 2,
     "Name": "Gun Hill",
     "Type": "House",
     "Price": 755990,
@@ -49,6 +53,7 @@
   },
   {
     "Id": 5,
+    "SellRent": 1,
     "Name": "Mark Hill",
     "Type": "Condo",
     "Price": 210500,
@@ -61,7 +66,8 @@
   },
   {
     "Id": 6,
-    "Name": "Pearl White House",
+    "SellRent": 2,
+    "Name": "Pearl House",
     "Type": "House",
     "Price": 334900,
     "Address": "7398 East Avenue",

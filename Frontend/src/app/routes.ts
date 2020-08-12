@@ -8,5 +8,6 @@ export const appRoutes: Routes = [
   { path: 'home', component: HomeComponent },
   { path: 'properties', component: PropertyListComponent},
   { path: 'add-property', component: AddPropertyComponent},
-  { path: 'property-detail/:id', component: PropertyDetailComponent}
+  { path: 'property-detail/:id', component: PropertyDetailComponent},
+  {path: '**', redirectTo: 'home', pathMatch: 'full'}
 ];
