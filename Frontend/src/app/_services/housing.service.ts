@@ -11,6 +11,7 @@ export class HousingService {
 
 constructor(private http: HttpClient) { }
 
+// tslint:disable-next-line: typedef
 getProperty(id: number) {
   return this.getAllProperties().pipe(
     map(propertiesArray => {
